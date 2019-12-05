@@ -15,7 +15,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <MatrixSDK/MXSendReplyEventStringsLocalizable.h>
+#import <SwiftMatrixSDK/MXSendReplyEventStringsLocalizable.h>
 
 /**
  A `MXKSendReplyEventStringLocalizations` instance represents string localizations used when send reply event to a message in a room.

@@ -16,7 +16,7 @@
 
 #import "MXKRoomMemberListDataSource.h"
 
-@import MatrixSDK.MXCallManager;
+@import SwiftMatrixSDK.MXCallManager;
 
 #import "MXKRoomMemberCellData.h"
 

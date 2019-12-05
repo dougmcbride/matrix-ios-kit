@@ -16,7 +16,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 /**
  Temporary category to help in the transition from synchronous access to room.state

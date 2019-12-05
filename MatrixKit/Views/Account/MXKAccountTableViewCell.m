@@ -18,7 +18,7 @@
 
 #import "MXKAccountTableViewCell.h"
 
-@import MatrixSDK.MXMediaManager;
+@import SwiftMatrixSDK.MXMediaManager;
 
 #import "NSBundle+MatrixKit.h"
 

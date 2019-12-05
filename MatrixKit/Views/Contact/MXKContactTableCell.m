@@ -17,7 +17,7 @@
 
 #import "MXKContactTableCell.h"
 
-@import MatrixSDK.MXTools;
+@import SwiftMatrixSDK.MXTools;
 
 #import "MXKContactManager.h"
 #import "MXKAppSettings.h"

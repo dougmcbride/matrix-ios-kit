@@ -17,7 +17,7 @@
 
 #import "MXKTools.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 @import AddressBook;
 @import libPhoneNumber_iOS;
 @import DTCoreText;

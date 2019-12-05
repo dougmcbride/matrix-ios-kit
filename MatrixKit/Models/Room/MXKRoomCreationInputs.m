@@ -16,7 +16,7 @@
 
 #import "MXKRoomCreationInputs.h"
 
-#import <MatrixSDK/MXSession.h>
+#import <SwiftMatrixSDK/MXSession.h>
 
 @interface MXKRoomCreationInputs ()
 {

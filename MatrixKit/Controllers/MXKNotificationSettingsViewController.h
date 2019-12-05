@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 #import "MXKTableViewController.h"
 #import "MXKAccount.h"

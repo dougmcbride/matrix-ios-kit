@@ -18,7 +18,7 @@
 
 #import "MXKAttachmentsViewController.h"
 
-@import MatrixSDK.MXMediaManager;
+@import SwiftMatrixSDK.MXMediaManager;
 
 #import "MXKMediaCollectionViewCell.h"
 

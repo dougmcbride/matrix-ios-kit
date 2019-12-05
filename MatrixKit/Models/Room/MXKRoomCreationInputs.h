@@ -17,7 +17,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIImage.h>
 
-#import <MatrixSDK/MXEnumConstants.h>
+#import <SwiftMatrixSDK/MXEnumConstants.h>
 
 @class MXSession;
 

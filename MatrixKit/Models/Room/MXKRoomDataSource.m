@@ -19,7 +19,7 @@
 
 #import "MXKRoomDataSource.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 
 #import "MXKQueuedEvent.h"
 #import "MXKRoomBubbleTableViewCell.h"

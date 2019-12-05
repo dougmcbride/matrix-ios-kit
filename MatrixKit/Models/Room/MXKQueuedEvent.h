@@ -15,7 +15,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 /**
  `MXKQueuedEvent` represents an event waiting to be processed.

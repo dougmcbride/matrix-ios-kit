@@ -31,7 +31,7 @@
 
 #import <AFNetworking/AFNetworking.h>
 
-#import <MatrixSDK/MXBackgroundModeHandler.h>
+#import <SwiftMatrixSDK/MXBackgroundModeHandler.h>
 
 NSString *const kMXKAccountUserInfoDidChangeNotification = @"kMXKAccountUserInfoDidChangeNotification";
 NSString *const kMXKAccountAPNSActivityDidChangeNotification = @"kMXKAccountAPNSActivityDidChangeNotification";

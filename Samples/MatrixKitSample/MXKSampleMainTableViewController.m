@@ -21,7 +21,7 @@
 #import "MXKSampleRoomMembersViewController.h"
 #import "MXKWebViewViewController.h"
 
-#import <MatrixSDK/MXFileStore.h>
+#import <SwiftMatrixSDK/MXFileStore.h>
 
 @interface MXKSampleMainTableViewController ()
 {

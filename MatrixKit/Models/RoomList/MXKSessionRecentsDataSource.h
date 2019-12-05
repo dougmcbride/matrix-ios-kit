@@ -16,7 +16,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 #import "MXKDataSource.h"
 #import "MXKRecentCellData.h"

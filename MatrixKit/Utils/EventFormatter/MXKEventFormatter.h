@@ -17,7 +17,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 #import "MXKAppSettings.h"
 

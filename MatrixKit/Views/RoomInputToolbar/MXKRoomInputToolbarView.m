@@ -18,7 +18,7 @@
 
 #import "MXKRoomInputToolbarView.h"
 
-@import MatrixSDK.MXMediaManager;
+@import SwiftMatrixSDK.MXMediaManager;
 @import MediaPlayer;
 @import MobileCoreServices;
 @import Photos;

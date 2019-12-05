@@ -17,7 +17,7 @@
 
 #import "MXKAttachment.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 @import MobileCoreServices;
 
 #import "MXKTools.h"

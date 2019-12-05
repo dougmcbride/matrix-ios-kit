@@ -16,7 +16,7 @@
 
 @import Foundation;
 
-#import <MatrixSDK/MXRoomNameStringsLocalizable.h>
+#import <SwiftMatrixSDK/MXRoomNameStringsLocalizable.h>
 
 /**
  The `MXKRoomNameStringLocalizations` implements localization strings for `MXRoomNameStringsLocalizable`.

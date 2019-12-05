@@ -18,7 +18,7 @@
 
 #import "MXKEventFormatter.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 @import DTCoreText;
 @import cmark;
 

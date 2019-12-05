@@ -18,7 +18,7 @@
 
 #import "MXKRoomMemberTableViewCell.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 
 #import "MXKAccount.h"
 #import "MXKImageView.h"

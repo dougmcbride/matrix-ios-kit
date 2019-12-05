@@ -17,7 +17,7 @@
 
 #import "MXKSearchTableViewCell.h"
 
-@import MatrixSDK.MXMediaManager;
+@import SwiftMatrixSDK.MXMediaManager;
 
 #import "MXKSearchCellDataStoring.h"
 

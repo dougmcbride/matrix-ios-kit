@@ -18,7 +18,7 @@
 
 #import "MXKContactField.h"
 
-@import MatrixSDK.MXMediaManager;
+@import SwiftMatrixSDK.MXMediaManager;
 
 #import "MXKContactManager.h"
 

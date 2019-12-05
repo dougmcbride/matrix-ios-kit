@@ -18,7 +18,7 @@
 
 #import "MXKAccountDetailsViewController.h"
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 #import "MXK3PID.h"
 
 #import "MXKTools.h"

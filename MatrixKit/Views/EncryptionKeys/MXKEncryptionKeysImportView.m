@@ -19,7 +19,7 @@
 #import "MXKViewController.h"
 #import "NSBundle+MatrixKit.h"
 
-#import <MatrixSDK/MatrixSDK.h>
+#import <SwiftMatrixSDK/MatrixSDK.h>
 
 @interface MXKEncryptionKeysImportView ()
 {

@@ -20,7 +20,7 @@
 
 #define MXKROOMBUBBLECELLDATA_DEFAULT_MAX_TEXTVIEW_WIDTH 200
 
-@import MatrixSDK;
+@import SwiftMatrixSDK;
 
 #import "MXKRoomBubbleCellData.h"
 
